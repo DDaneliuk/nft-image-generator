@@ -1,0 +1,31 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "17c5e814f40e8a811a040cf3914dde46b8f43d95",
+  "edition": 1,
+  "date": 1663167007998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "back"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "horns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "eye"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
